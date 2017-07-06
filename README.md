@@ -1,5 +1,4 @@
-Segmented anisotropic ssTEM dataset of neural tissue
-----------------------------------------------------
+# Segmented anisotropic ssTEM dataset of neural tissue
 
 The ground truth stack 1 contains 20 sections from serial section Transmission Electron Microscopy (ssTEM) of the Drosophila melanogaster third instar larva ventral nerve cord. The cube measures 4.7 x 4.7 x 1 microns approx, with a resolution of 4.6 x 4.6 nm/pixel and section thickness of 45-50 nm.
 
