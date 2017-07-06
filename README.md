@@ -10,7 +10,8 @@ The ground truth stack 1 contains 20 sections from serial section Transmission E
 │   ├── raw: The raw 8-bit greyscale images
 │   ├── membranes: Series of binary images of segmented membranes
 │   ├── mitochondria: Series of binary images of segmented mitochondria
-│   └── labels: Series of merged labels including membranes, mitochondria, synapses as separate channels.
+│   ├── synapses: Series of binary images of segmented synapses
+│   └── labels: Series of merged labels including membranes, mitochondria, synapses as separate channels
 └── stack2
     └── raw: The raw 8-bit greyscale images
 ```
