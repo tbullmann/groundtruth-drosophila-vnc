@@ -10,8 +10,6 @@ You are free to use this data set for the purpose of generating or testing non-c
 ```bibtex
 @article{Gerhard2013vncgroundtruth,
 	Author = {Stephan Gerhard and Jan Funke and Julien Martel and Albert Cardona and Richard Fetter},
-	Date-Added = {2017-06-29 04:35:14 +0000},
-	Date-Modified = {2017-06-29 05:32:12 +0000},
 	Journal = {figshare},
 	Title = {Segmented anisotropic ssTEM dataset of neural tissue},
 	Url = {http://dx.doi.org/10.6084/m9.figshare.856713},
